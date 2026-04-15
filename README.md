@@ -37,7 +37,6 @@ Contributor to ChemGraph, an agentic software framework for computational chemis
 ## 📚  Selected Publications
 
 - Varun Rishi et al. *"Quantifying Design Principles for Light-Emitting Materials with Inverted Singlet–Triplet Energy Gaps"* — J. Phys. Chem. Lett. 16, 5213 (2025)
-- Varun Rishi et al. *"Many-body quantum chemistry on massively parallel computers"* — Chem. Rev. 121, 3, 1203 (2021)
 
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=nGopRpIAAAAJ&hl=en) (13+ publications)
 
