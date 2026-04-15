@@ -19,7 +19,7 @@ I'm a computational scientist with a Ph.D. in Chemical Physics and 10+ years of 
 ## 🛠️  Open Source
 
 ### [MPQC](https://github.com/ValeevGroup/mpqc) — Massively Parallel Quantum Chemistry
-Developer of MPQC, a high-performance quantum chemistry package written in C++. I designed and optimized massively parallel tensor-decomposition algorithms for high-level quantum chemistry simulations, scaling across GPU and CPU clusters with parallel filesystem integration.
+Developer of MPQC, a high-performance quantum chemistry package written in C++. I designed and optimized massively parallel tensor-decomposition algorithms for high-level quantum chemistry simulations, scaling across CPU clusters with parallel filesystem integration.
 
 ### [ChemGraph](https://github.com/argonne-lcf/ChemGraph) — Agentic AI for Computational Chemistry
 Contributor to ChemGraph, an agentic software framework for computational chemistry workflows. Built agentic AI automation pipelines using the LangGraph framework, integrating simulation, optimization, and data analysis backends with ML models.
@@ -53,9 +53,13 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 ## 🧰  Tech Stack
 
 **Languages:** Python · C++ · Fortran
-**ML/AI:** PyTorch · TensorFlow · Sci-kit Learn · PyTorch Geometric · LangGraph  · GNNs · Transformers · Diffusion Models
-**Scientific Computing:** Numpy · Pandas · PySCF · Psi4 ·  MPQC · 
-**HPC & Cloud:** Kubernetes · Flyte · Airflow · MPI · OpenMP · BLAS · GPU clusters
+
+**ML/AI:** PyTorch · TensorFlow · Sci-kit Learn · PyTorch Geometric · LangGraph · GNNs · Transformers · Diffusion Models
+
+**Scientific Computing:** Numpy · Pandas · PySCF · Psi4 · MPQC
+
+**HPC & Cloud:**  AWS ·  MPI · OpenMP · BLAS · CUDA · Kubernetes · Docker 
+
 **Certifications:** AWS ML Engineer Associate (2025) · NVIDIA Agentic AI Professional (2026) · Deep Learning Specialization, DeepLearning.AI (2025)
 
 ---
@@ -63,9 +67,11 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 ## 📫  Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-varun--rishi-blue?logo=linkedin)](https://www.linkedin.com/in/varun-rishi/)
+[![Website](https://img.shields.io/badge/Website-varunrishi.github.io-green?logo=github)](https://varunrishi.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Varun%20Rishi-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nGopRpIAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-rishi.iiser%40gmail.com-red?logo=gmail)](mailto:rishi.iiser@gmail.com)
 
-
+📍  Ontario, Canada 
 
 <!--
 **varunrishi/varunrishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
