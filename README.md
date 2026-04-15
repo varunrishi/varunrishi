@@ -28,9 +28,9 @@ Contributor to ChemGraph, an agentic software framework for computational chemis
 
 ## 💼  Background
 
-- **Postdoctoral Fellow** at Sandia National Labs — designed and deployed agentic AI systems for autonomous scientific discovery using LangGraph; developed GNN models for molecular design in photochemical and energy applications
-- **Postdoctoral Fellow** at California Institute of Technology — built cheminformatics ML models for organic molecular property prediction and reaction analysis
-- **Postdoctoral Fellow** at Virginia Tech — co-developed MPQC and optimized massively parallel quantum chemistry algorithms
+- **Postdoctoral Fellow** at Sandia National Labs — computational design of molecular emitters through quantum simulation and structure-property relationships; simulation of light-initiated excited state reactions; designed and deployed agentic AI systems for autonomous scientific discovery using LangGraph; developed GNN models for molecular design in photochemical and energy applications
+- **Postdoctoral Fellow** at California Institute of Technology — built ML models for organic molecular property prediction
+- **Postdoctoral Fellow** at Virginia Tech — co-developed MPQC and optimized massively parallel quantum chemistry algorithms for high-accuracy chemistry simulations
 
 ---
 
