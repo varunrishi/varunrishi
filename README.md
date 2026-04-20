@@ -9,10 +9,9 @@ I'm a computational scientist with a Ph.D. in Chemical Physics and 10+ years of 
 ## 🔬  Research Interests & Expertise
 
 - **Quantum Chemistry** — Electronic structure methods, many-body theory, tensor decomposition algorithms
+- **Applied Machine Learning** — Graph Neural Networks, deep learning for molecular property prediction, surrogate-driven atomistic modeling
 - **High-Performance Computing** — Massively parallel algorithms, GPU/CPU cluster optimization, distributed systems
 - **Agentic AI** — Multi-agent frameworks, autonomous scientific workflows, simulation-aware decision loops
-- **Applied Machine Learning** — Graph Neural Networks, deep learning for molecular property prediction, surrogate-driven atomistic modeling
-
 
 ---
 
