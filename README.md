@@ -21,7 +21,7 @@ I'm a computational scientist with a Ph.D. in Chemical Physics and 10+ years of 
 
 **Creator & Author**
 
-High-performance Coupled Cluster Doubles package in C++/CUDA with Python bindings and [PySCF](https://pyscf.org) integration. Implements CCD, LCCD, DCD, and pCCD in the spin-orbital basis with cuBLAS GPU acceleration, DIIS convergence, and a one-line PySCF interface. The DCD/pCCD methods are based on [Rishi, Perera & Bartlett, *J. Chem. Phys.* **144**, 124117 (2016)](https://doi.org/10.1063/1.4944087).
+High-performance Coupled Cluster Doubles package in C++/CUDA with Python bindings and [PySCF](https://pyscf.org) integration. Implements CCD, LCCD, DCD, and pCCD in the spin-orbital basis with cuBLAS GPU acceleration, DIIS convergence, and a one-line PySCF interface. 
 
 ### [MPQC](https://github.com/ValeevGroup/mpqc) — Massively Parallel Quantum Chemistry
 Developer of MPQC, a high-performance quantum chemistry package written in C++. I designed and optimized massively parallel tensor-decomposition algorithms for high-level quantum chemistry simulations, scaling across CPU clusters with parallel filesystem integration.
