@@ -1,6 +1,6 @@
 # Hi, I'm Varun Rishi 👋
 
-**Quantum Chemistry Researcher · Applied Machine Learning · High-Performance Computing**
+** Applied Machine Learning · Quantum Chemistry · High-Performance Computing**
 
 I'm a computational scientist with a Ph.D. in Chemical Physics and 10+ years of experience at the intersection of quantum chemistry, machine learning, and large-scale scientific computing. My work spans autonomous AI systems for scientific discovery, massively parallel quantum chemistry algorithms, and deep learning for molecular design.
 
